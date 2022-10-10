@@ -22,7 +22,7 @@
         <location filename="../qml/pages/PackagesListPage.qml" line="111"/>
         <source>Update all</source>
         <oldsource>Apply all updates</oldsource>
-        <translation>Alle aktualisierunge</translation>
+        <translation>Alle updates ausführen</translation>
     </message>
     <message id="chum-updates-available" numerus="yes">
         <location filename="../qml/sailfishos-chum-gui.qml" line="65"/>
@@ -77,7 +77,7 @@
         <location filename="../qml/pages/MainPage.qml" line="71"/>
         <source>No updates available</source>
         <oldsource>No update available</oldsource>
-        <translation>Keine Aktualisierungen verfügbar</translation>
+        <translation>Keine Updates verfügbar</translation>
     </message>
     <message id="chum-updates">
         <location filename="../qml/pages/MainPage.qml" line="75"/>
@@ -115,25 +115,25 @@
         <location filename="../qml/pages/PackagePage.qml" line="29"/>
         <source>Source code</source>
         <oldsource>Project Repository</oldsource>
-        <translation type="unfinished">Projekt Repository</translation>
+        <translation>Projekt Repository</translation>
     </message>
     <message id="chum-package-file-issue">
         <location filename="../qml/pages/PackagePage.qml" line="35"/>
         <source>Issue tracker</source>
         <oldsource>File Issue</oldsource>
-        <translation type="unfinished">Fehler melden</translation>
+        <translation>Fehler verfolgen</translation>
     </message>
     <message id="chum-package-discussion-forum">
         <location filename="../qml/pages/PackagePage.qml" line="41"/>
         <source>Discussion forum</source>
         <oldsource>Discussion Forum</oldsource>
-        <translation type="unfinished">Diskussionsforum</translation>
+        <translation>Diskussionsforum</translation>
     </message>
     <message id="chum-uninstalling">
         <location filename="../qml/pages/PackagePage.qml" line="24"/>
         <source>Removing</source>
         <oldsource>Uninstalling</oldsource>
-        <translation type="unfinished">Deinstalliere</translation>
+        <translation>Deinstalliere</translation>
     </message>
     <message id="chum-update">
         <location filename="../qml/pages/PackagePage.qml" line="49"/>
@@ -152,18 +152,18 @@
         <location filename="../qml/pages/PackagesListPage.qml" line="72"/>
         <source>Remove</source>
         <oldsource>Uninstall</oldsource>
-        <translation type="unfinished">Deinstallieren</translation>
+        <translation>Deinstallieren</translation>
     </message>
     <message id="chum-package-donation">
         <location filename="../qml/pages/PackagePage.qml" line="126"/>
         <source>Donate</source>
         <oldsource>Make Dontation</oldsource>
-        <translation type="unfinished">Spenden</translation>
+        <translation>Spenden</translation>
     </message>
     <message id="chum-pkg-update-available">
         <location filename="../qml/components/AppSummary.qml" line="36"/>
         <source>Update available</source>
-        <translation>Aktualisierung verfügbar</translation>
+        <translation>Update verfügbar</translation>
     </message>
     <message id="chum-pkg-installed">
         <location filename="../qml/components/AppSummary.qml" line="39"/>
@@ -184,7 +184,7 @@
         <location filename="../qml/components/AppSummary.qml" line="66"/>
         <source>Categories:</source>
         <oldsource>Categories</oldsource>
-        <translation type="unfinished">Kategorien</translation>
+        <translation>Kategorien</translation>
     </message>
     <message id="chum-releases-number">
         <location filename="../qml/pages/PackagePage.qml" line="103"/>
@@ -205,49 +205,49 @@
         <location filename="../src/chum.cpp" line="42"/>
         <source>Loading SailfishOS:Chum repository</source>
         <oldsource>Load repositories</oldsource>
-        <translation type="unfinished">Lade Repositories</translation>
+        <translation>Lade Repositories</translation>
     </message>
     <message id="chum-get-list-packages">
         <location filename="../src/chum.cpp" line="104"/>
         <source>Retrieving list of available packages</source>
         <oldsource>Get list of packages</oldsource>
-        <translation type="unfinished">Liste der Pakete abrufen</translation>
+        <translation>Liste der Pakete abrufen</translation>
     </message>
     <message id="chum-get-package-details">
         <location filename="../src/chum.cpp" line="181"/>
         <source>Retrieving the current detail information for installed packages</source>
         <oldsource>Get package details</oldsource>
-        <translation type="unfinished">Paket Details abrufen</translation>
+        <translation>Paket Details abrufen</translation>
     </message>
     <message id="chum-get-package-version">
         <location filename="../src/chum.cpp" line="211"/>
         <source>Retrieving the currently available versions of installed packages</source>
         <oldsource>Get versions of installed packages</oldsource>
-        <translation type="unfinished">Versionen von installierten Paketen abrufen</translation>
+        <translation>Versionen von installierten Paketen abrufen</translation>
     </message>
     <message id="chum-check-updates">
         <location filename="../src/chum.cpp" line="258"/>
         <source>Checking for which installed packages an update is available</source>
         <oldsource>Check for updates</oldsource>
-        <translation type="unfinished">Auf Aktualisierungen prüfen</translation>
+        <translation>Auf Updates prüfen</translation>
     </message>
     <message id="chum-refresh-repository-impossible">
         <location filename="../src/chum.cpp" line="293"/>
         <source>Failed to refresh SailfishOS:Chum repository, because it is not available!</source>
         <oldsource>Cannot refresh repository as it is not available</oldsource>
-        <translation type="unfinished">Kann Repository nicht aktualisieren, da es nicht verfügbar ist</translation>
+        <translation>Kann Repository nicht aktualisieren, da es nicht verfügbar ist</translation>
     </message>
     <message id="chum-refresh-repository">
         <location filename="../src/chum.cpp" line="303"/>
         <source>Refreshing SailfishOS:Chum repository</source>
         <oldsource>Refreshing Chum repository</oldsource>
-        <translation type="unfinished">Aktualisiere Chum Repository</translation>
+        <translation>Aktualisiere Chum Repository</translation>
     </message>
     <message id="chum-refresh-repository-failed">
         <location filename="../src/chum.cpp" line="320"/>
         <source>Failed to refresh SailfishOS:Chum repository!</source>
         <oldsource>Failed to refresh Chum repository</oldsource>
-        <translation type="unfinished">Aktualisierung Chum Repository fehlgeschlagen</translation>
+        <translation type="unfinished">Aktualisierung des Chum Repositorys fehlgeschlagen</translation>
     </message>
     <message id="chum-repo-management-disabled-title">
         <location filename="../src/chum.cpp" line="67"/>
